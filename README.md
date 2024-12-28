@@ -1,4 +1,4 @@
-## Depression Prediction System
+## Smart Analysis of Neural Variations for Emotion Evaluation
 
 ### Overview
 
