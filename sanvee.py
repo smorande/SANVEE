@@ -293,7 +293,7 @@ def create_confusion_matrix_plot(conf_matrix):
     return fig
 
 def main():
-    st.set_page_config(page_title="Depression Prediction System", layout="wide")
+    st.set_page_config(page_title="🧠 Smart Analysis of Neural Variations for Emotion Evaluation", layout="wide")
     
     st.markdown("""
         <h1 style='text-align: center; background-color: rgba(0, 123, 255, 0.1); 
