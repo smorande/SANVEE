@@ -8,3 +8,4 @@ imbalanced-learn>=0.8.1
 plotly>=5.3.0
 openpyxl>=3.0.9
 python-dotenv
+openai>=1.0.0
